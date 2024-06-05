@@ -3,3 +3,7 @@
 I'm a full stack developer at @Regenta, working on projects like b2b-wirtschaft.de, stadtmagazin-sh.de and a few private ones.
 
 My focus is currently mastering Symfony, trying out a few things here and there.
+
+---
+
+![Codewars](https://www.codewars.com/users/ebitkov/badges/micro)
